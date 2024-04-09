@@ -1044,7 +1044,7 @@ http://www.gnu.org/licenses/gpl.html
               "middle",
               "static",
               pos,
-              panelHeight * 29,
+              panelHeight * 27.5,
               0.1,
               0
             ),
@@ -1054,7 +1054,7 @@ http://www.gnu.org/licenses/gpl.html
               "middle",
               "static",
               pos,
-              panelHeight * 29,
+              panelHeight * 28,
               0.3,
               0
             ),
@@ -1065,7 +1065,7 @@ http://www.gnu.org/licenses/gpl.html
               "middle",
               "static",
               pos,
-              panelHeight * 29,
+              panelHeight * 28,
               -1.1,
               0
             ),
@@ -1076,14 +1076,14 @@ http://www.gnu.org/licenses/gpl.html
               "middle",
               "static",
               pos,
-              panelHeight * 29,
+              panelHeight * 28,
               0.3,
               0
             ),
             height: panelHeight,
           });
           $BG29e.css({ height: panelHeight }); // frame
-          if (pos >= panelHeight * 27 + panelHeight / 2) {
+          if (pos >= panelHeight * 25 + panelHeight / 2) {
             mainPanel = $BG29a;
             ChangeLinks();
           }
@@ -1105,7 +1105,7 @@ http://www.gnu.org/licenses/gpl.html
               "middle",
               "static",
               pos,
-              panelHeight * 31,
+              panelHeight * 30,
               0.8,
               0
             ),
@@ -1115,7 +1115,7 @@ http://www.gnu.org/licenses/gpl.html
               "middle",
               "static",
               pos,
-              panelHeight * 31,
+              panelHeight * 30,
               0.6,
               0
             ),
