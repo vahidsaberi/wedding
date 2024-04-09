@@ -91,6 +91,7 @@ a.nav-link {
 }
 
 .caption {
+  font-family: "Vazirmatn" !important;
   font-size: 19px;
   font-weight: 400;
   width: 500px;
